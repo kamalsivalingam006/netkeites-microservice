@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace NetKeites.Store
+namespace NetKeites.Store.API
 {
     public class Program
     {
