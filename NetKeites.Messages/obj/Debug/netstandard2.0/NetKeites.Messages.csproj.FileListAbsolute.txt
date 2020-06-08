@@ -1,8 +1,0 @@
-D:\Kamal\Repos\netkeites-microservice\NetKeites.Messages\bin\Debug\netstandard2.0\NetKeites.Messages.deps.json
-D:\Kamal\Repos\netkeites-microservice\NetKeites.Messages\bin\Debug\netstandard2.0\NetKeites.Messages.dll
-D:\Kamal\Repos\netkeites-microservice\NetKeites.Messages\bin\Debug\netstandard2.0\NetKeites.Messages.pdb
-D:\Kamal\Repos\netkeites-microservice\NetKeites.Messages\obj\Debug\netstandard2.0\NetKeites.Messages.csprojAssemblyReference.cache
-D:\Kamal\Repos\netkeites-microservice\NetKeites.Messages\obj\Debug\netstandard2.0\NetKeites.Messages.AssemblyInfoInputs.cache
-D:\Kamal\Repos\netkeites-microservice\NetKeites.Messages\obj\Debug\netstandard2.0\NetKeites.Messages.AssemblyInfo.cs
-D:\Kamal\Repos\netkeites-microservice\NetKeites.Messages\obj\Debug\netstandard2.0\NetKeites.Messages.dll
-D:\Kamal\Repos\netkeites-microservice\NetKeites.Messages\obj\Debug\netstandard2.0\NetKeites.Messages.pdb
