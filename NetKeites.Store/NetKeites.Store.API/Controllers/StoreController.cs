@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using NetKeites.Messages;
+using NetKeites.Store.Messages;
 
-namespace NetKeites.Store.Controllers
+namespace NetKeites.Store.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]
@@ -17,7 +17,7 @@ namespace NetKeites.Store.Controllers
         }
 
         [HttpGet]
-        [Route("Products{productId}")]
+        [Route("Products/{productId}")]
         public IEnumerable<ProductAggregate> Get(int productId)
         {
             return new List<ProductAggregate>();

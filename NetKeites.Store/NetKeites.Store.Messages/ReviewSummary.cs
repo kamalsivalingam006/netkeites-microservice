@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace NetKeites.Messages
+namespace NetKeites.Store.Messages
 {
     public class ReviewSummary
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace NetKeites.Messages
+namespace NetKeites.Store.Messages
 {
     public class ProductAggregate
     {
