@@ -16,4 +16,4 @@ jobs:
     - uses: actions/checkout@v2
     - name: Build the Docker image
       working-directory: NetKeites.Store
-      run: docker build . --file Dockerfile --tag my-image-name:$(date +%s)
+      run: docker build . --file Dockerfile --tag netkeites.store:$(date +%s)
